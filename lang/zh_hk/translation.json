@@ -1,2 +1,12 @@
 {
+    "dialog_general_button_confirm": "確認",
+    "dialog_general_button_close": "關閉",
+    "dialog_general_button_back": "返回",
+    "dialog_general_button_next": "下一步",
+    "disconnect_from_server": "你已斷開與伺服器的連線。",
+    "dialog_newcomer_welcome_title": "歡迎來到挑戰者紀元",
+    "dialog_newcomer_welcome_body_welcome_line": "歡迎來到 Block Masters - 挑戰者紀元伺服器!",
+    "dialog_newcomer_welcome_body_info_line": "在加入伺服器之前, 你需要註冊一個帳號。\n如果你不想註冊, 可以選擇斷開與伺服器的連線。\n首先, 請選擇你的偏好語言:",
+    "dialog_newcomer_welcome_button_disconnect": "斷開連線",
+    "dialog_newcomer_welcome_button_disconnect_description": "如果你不想註冊, 將無法在伺服器上遊玩。此選項將斷開你與伺服器的連線。"
 }
