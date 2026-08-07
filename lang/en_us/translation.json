@@ -3,7 +3,7 @@
     "dialog_general_button_close": "Close",
     "dialog_general_button_back": "Back",
     "dialog_general_button_next": "Next",
-    "disconnecet_from_server": "You have disconnected from the server.",
+    "disconnect_from_server": "You have disconnected from the server.",
     "dialog_newcomer_welcome_title": "Welcome to Challenger Era",
     "dialog_newcomer_welcome_body_welcome_line": "Welcome to Block Masters - Challenger Era server!",
     "dialog_newcomer_welcome_body_info_line": "Before you join the server, you need to register an account.\nIf you don't want to register, you can choose to disconnect from the server.\nFirst, please select your preferred language:",
