@@ -5,9 +5,9 @@
     "dialog_general_button_next": "Next",
     "disconnect_from_server": "You have disconnected from the Era.",
     "dialog_newcomer_welcome_title": "Welcome to Challenger Era",
-    "dialog_newcomer_welcome_body_welcome_line": "Welcome to Block Masters: Challenger Era!",
-    "dialog_newcomer_welcome_body_info_line": "Before you join the server, you need to create an Era Account.\nIf you don't want to register, you can choose to disconnect from the server.",
-    "dialog_newcomer_welcome_body_language_selection_line": "First, please select your preferred language.",
+    "dialog_newcomer_welcome_body_welcome_line": "Welcome to <#c2fc03>Block Masters: Challenger Era",
+    "dialog_newcomer_welcome_body_info_line": "Before you join the server, you need to create an Era Account.\n<#ebebeb>If you don't want to register, you can choose to disconnect from the server.",
+    "dialog_newcomer_welcome_body_language_selection_line": "<#b4c0d4>First, please select your preferred language.",
     "dialog_newcomer_welcome_button_disconnect": "Disconnect",
     "dialog_newcomer_welcome_button_disconnect_description": "If you don't want to register, you will not be able to play on the server. This option will disconnect you from the server.",
     "dialog_account_registration_title": "Create an Era Account",
@@ -16,7 +16,7 @@
     "dialog_account_registration_body_email_tip_line": "<#ff4800>We do not verify or check your email address. However, we strongly recommend providing an email address you can access, as it may be used to verify your identity if you ever need to recover your account.",
     "dialog_account_registration_body_input_password": "Enter a password",
     "dialog_account_registration_body_input_email": "Email address",
-    "dialog_account_registration_body_input_agree_era_covenant": "Agree with <#c2fc03>Era Covenant",
+    "dialog_account_registration_body_input_agree_era_covenant": "<#b4c0d4>Agree with <#c2fc03>Era Covenant",
     "dialog_account_authentication_form_error_title": "Error",
     "dialog_account_authentication_form_error_body_info_line": "<#eb3434>Please fill in all required fields."
 }

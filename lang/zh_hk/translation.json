@@ -1,1 +1,22 @@
-{}
+{
+    "dialog_general_button_confirm": "確認",
+    "dialog_general_button_close": "關閉",
+    "dialog_general_button_back": "返回",
+    "dialog_general_button_next": "下一步",
+    "disconnect_from_server": "你已從 Era 斷開連線。",
+    "dialog_newcomer_welcome_title": "歡迎來到 Challenger Era",
+    "dialog_newcomer_welcome_body_welcome_line": "歡迎來到 <#c2fc03>Block Masters: Challenger Era",
+    "dialog_newcomer_welcome_body_info_line": "在加入伺服器之前, 你需要建立一個 Era 帳戶。\n<#ebebeb>如果你不想註冊, 可以選擇斷開與伺服器的連線。",
+    "dialog_newcomer_welcome_body_language_selection_line": "<#b4c0d4>首先, 請選擇你偏好的語言。",
+    "dialog_newcomer_welcome_button_disconnect": "斷開連線",
+    "dialog_newcomer_welcome_button_disconnect_description": "如果你不想註冊, 你將無法遊玩伺服器。選擇此選項後, 你將會從伺服器斷開連線。",
+    "dialog_account_registration_title": "建立 Era 帳戶",
+    "dialog_account_registration_body_era_covenant_link_line": "Era Covenant: <#34ebc0><u>{0}",
+    "dialog_account_registration_body_info_line": "請填寫以下註冊表單。",
+    "dialog_account_registration_body_email_tip_line": "<#ff4800>我們不會驗證或檢查你的電子郵件地址。但是, 我們強烈建議提供一個你可以存取的電子郵件地址, 因為當你需要恢復帳戶時, 它可能會用於驗證你的身份。",
+    "dialog_account_registration_body_input_password": "輸入密碼",
+    "dialog_account_registration_body_input_email": "電子郵件地址",
+    "dialog_account_registration_body_input_agree_era_covenant": "<#b4c0d4>同意 <#c2fc03>Era Covenant",
+    "dialog_account_authentication_form_error_title": "錯誤",
+    "dialog_account_authentication_form_error_body_info_line": "<#eb3434>請填寫所有必填欄位。"
+}
