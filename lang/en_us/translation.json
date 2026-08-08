@@ -20,7 +20,7 @@
     "dialog_account_authentication_error_title": "Error",
     "dialog_account_authentication_error_body_missing_fill_line": "<#eb3434>Please fill in all required fields.",
     "dialog_account_registration_successful_title": "Registration Successful",
-    "dialog_account_registration_successful_body_info_line": "Your account has been created! Enjoy your adventure!",
+    "dialog_account_registration_successful_body_info_line": "<#c2fc03>Your account has been created! Enjoy your adventure!",
     "dialog_account_registration_successful_body_recovery_codes_line": "Here are your recovery codes. Store them in a safe place. You can use these codes to recover your account if you forget your password.<br><#eb3434><b>IMPORTANT: </b>After closing this page, you will no longer be able to access these codes again!",
     "dialog_account_registration_successful_body_input_recovery_codes": "Recovery codes",
     "dialog_account_registration_successful_button_join": "Connect to Hub"
