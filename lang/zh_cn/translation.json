@@ -1,12 +1,1 @@
-{
-    "dialog_general_button_confirm": "确认",
-    "dialog_general_button_close": "关闭",
-    "dialog_general_button_back": "返回",
-    "dialog_general_button_next": "下一步",
-    "disconnect_from_server": "你已断开与服务器的连接。",
-    "dialog_newcomer_welcome_title": "欢迎来到挑战者纪元",
-    "dialog_newcomer_welcome_body_welcome_line": "欢迎来到 Block Masters - 挑战者纪元服务器！",
-    "dialog_newcomer_welcome_body_info_line": "在加入服务器之前, 你需要注册一个账号。\n如果你不想注册, 可以选择断开与服务器的连接。\n首先, 请选择你的偏好语言:",
-    "dialog_newcomer_welcome_button_disconnect": "断开连接",
-    "dialog_newcomer_welcome_button_disconnect_description": "如果你不想注册, 将无法在服务器上游玩。此选项将断开你与服务器的连接。"
-}
+{}
