@@ -30,5 +30,12 @@
     "dialog_account_registration_successful_body_info_line": "<#c2fc03>Your account has been successfully created! Enjoy your adventure!",
     "dialog_account_registration_successful_body_recovery_codes_line": "Here are your recovery codes. Store them in a safe place. You can use these codes to recover your account if you forget your password.<br><#eb3434><b>IMPORTANT: </b>After closing this page, you will no longer be able to access these codes again!",
     "dialog_account_registration_successful_body_input_recovery_codes": "Recovery codes",
-    "dialog_account_registration_successful_button_join": "Connect to Hub"
+    "dialog_account_registration_successful_button_join": "Connect to Hub",
+    "dialog_account_login_title": "Era Account Authentication",
+    "dialog_account_login_body_welcome_back_line": "Welcome back {0}!",
+    "dialog_account_login_body_login_line": "<#b4c0d4>Please log in to your Era Account.",
+    "dialog_account_login_body_input_password": "Enter your password",
+    "dialog_account_login_body_input_remember_me": "Remember Me (5 Days Offline)",
+    "dialog_account_login_button_login": "Login",
+    "dialog_account_login_button_recover_account": "Recover Account"
 }
