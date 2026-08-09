@@ -33,7 +33,7 @@
     "dialog_account_registration_successful_body_input_recovery_codes": "Recovery codes",
     "dialog_account_registration_successful_button_join": "Connect to Hub",
     "dialog_account_login_title": "Era Account Authentication",
-    "dialog_account_login_body_welcome_line": "Welcome back <#03f4b1>{0}<>",
+    "dialog_account_login_body_welcome_line": "Welcome back <#03f4b1>{0}",
     "dialog_account_login_body_login_line": "<#b4c0d4>Please log in to your Era Account.",
     "dialog_account_login_body_input_password": "Enter your password",
     "dialog_account_login_body_input_remember_ip": "Remember Me <gray>(5 Days Offline)",
