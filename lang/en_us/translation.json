@@ -5,6 +5,7 @@
     "dialog_general_button_next": "Next",
     "kick_actively_disconnect": "<#eb3434>You have actively disconnected from the Era.",
     "kick_authentication_timeout": "<#eb3434>You have been kicked for authentication timeout.",
+    "kick_authentication_failed": "<#eb3434>An error occured while authentication.",
     "dialog_newcomer_welcome_title": "Welcome to Challenger Era",
     "dialog_newcomer_welcome_body_welcome_line": "Welcome to <#c2fc03>Block Masters: Challenger Era",
     "dialog_newcomer_welcome_body_info_line": "Before you join the server, you need to create an Era Account.<br><#ebebeb>If you don't want to register, you can choose to disconnect from the server.",
@@ -35,7 +36,7 @@
     "dialog_account_login_body_welcome_line": "Welcome back {0}!",
     "dialog_account_login_body_login_line": "<#b4c0d4>Please log in to your Era Account.",
     "dialog_account_login_body_input_password": "Enter your password",
-    "dialog_account_login_body_input_remember_ip": "Remember Me (5 Days Offline)",
+    "dialog_account_login_body_input_remember_ip": "Remember Me <gray>(5 Days Offline)",
     "dialog_account_login_button_login": "Login",
     "dialog_account_login_button_recover_account": "Recover Account"
 }
