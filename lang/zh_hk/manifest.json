@@ -4,5 +4,6 @@
     "aliases": [
         "Chinese Traditional",
         "Traditional Chinese"
-    ]
+    ],
+    "priority": 3
 }
