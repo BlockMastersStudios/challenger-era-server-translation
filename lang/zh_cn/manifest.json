@@ -5,7 +5,10 @@
         "Chinese",
         "Chinese Simplified",
         "Simplified Chinese",
-        "zh"
+        "zh",
+        "简体中文",
+        "中文",
+        "zh_hans"
     ],
     "priority": 2
 }
