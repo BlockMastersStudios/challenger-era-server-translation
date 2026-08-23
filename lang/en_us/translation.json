@@ -63,6 +63,8 @@
     "command_usage": "\uE005 <#eb3434>Command usage: /{0} {1}",
     "command_parameter_error": "\uE005 <#eb3434>Parameter <white>[{0}] <#eb3434>requires a <white>{1}<#eb3434>!",
     "command_reloadconfig_success": "\uE003 <#c2fc03>Reloaded configurations.",
+    "command_language_changed": "\uE003 <#c2fc03>Language changed: <white>{0}",
+    "command_language_invalid_name": "\uE005 <#eb3434>Invalid language: <white>{0}",
     "player_not_online": "<#eb3434>Player <white>{0} <#eb3434>is not online!",
     "player_not_exist": "<#eb3434>Player <white>{0} <#eb3434>does not exist!"
 }
