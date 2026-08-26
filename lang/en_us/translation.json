@@ -70,5 +70,8 @@
     "command_language_invalid_name": "\uE005 <#eb3434>Invalid language: <white>{0}",
     "command_maintenance_confirm": "\uE004 <#fcc603>To prevent unintentional execution, you need to execute this command again in <white>10s <#fcc603>to confirm.",
     "command_maintenance_on": "\uE004 <#fcc603>Maintenance mode is on! All players has been removed from the server.",
-    "command_maintenance_off": "\uE004 <#fcc603>Maintenance mode is off."
+    "command_maintenance_off": "\uE004 <#fcc603>Maintenance mode is off.",
+    "server_transfer_attempting": "\uE006 <#c5cdd9>Attempting to find a destination... ({0})",
+    "server_transfer_performing": "\uE003 <#c2fc03>Sending you to <white>{0}<#c2fc03>...",
+    "server_transfer_failed": "\uE005 <#eb3434>Destination refused the connection. <#c5cdd9>({0})"
 }
