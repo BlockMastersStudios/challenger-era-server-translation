@@ -62,7 +62,7 @@
     "command_disabled": "\uE005 <#eb3434>This command is disabled on this server! (/{0})",
     "command_no_permission": "\uE005 <#eb3434>You do not have permission to execute this command! (/{0})",
     "command_only_player": "\uE005 <#eb3434>This command can only be executed by players! (/{0})",
-    "command_error": "\uE005 <#eb3434>Command execution failed! <#c5cdd9>({0})",
+    "command_error": "\uE005 <#eb3434>Command execution failed! <#c5cdd9>({0}/{1})",
     "command_usage": "\uE005 <#eb3434>Command usage: /{0} {1}",
     "command_parameter_error": "\uE005 <#eb3434>Parameter <white>[{0}] <#eb3434>requires a <white>{1}<#eb3434>!",
     "command_reloadconfig_success": "\uE003 <#c2fc03>Reloaded configurations.",
@@ -74,5 +74,5 @@
     "server_transfer_attempting": "\uE006 <#c5cdd9>Attempting to find a destination... ({0})",
     "server_transfer_performing": "\uE003 <#c2fc03>Transferring you to <white>{0}<#c2fc03>...",
     "server_transfer_failed": "\uE005 <#eb3434>Couldn't transfer you! Try again later. <#c5cdd9>({0})",
-    "command_serverinfo": "<br>\uE003 <#c2fc03>Server connection info:<br><#c5cdd9>Proxy: <white>{0}<br><#c5cdd9>Server: <white>{1}<br><#c5cdd9>Role: <white>{2}<br>"
+    "command_serverinfo": "<br>\uE003 <#c2fc03>Server connection info:<br>\uE003 <#c5cdd9>Proxy: <white>{0}<br>\uE003 <#c5cdd9>Server: <white>{1}<br>\uE003 <#c5cdd9>Role: <white>{2}<br>"
 }
