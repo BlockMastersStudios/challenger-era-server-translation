@@ -74,8 +74,8 @@
     "server_transfer_attempting": "\uE006 <#c5cdd9>Attempting to find a destination... <white>({0})</white>",
     "server_transfer_performing": "\uE003 <#c2fc03>Transferring you to <white>{0}</white>...",
     "server_transfer_failed": "\uE005 <#eb3434>Couldn't transfer you! <#c5cdd9>Try again later. ({0})",
-    "command_serverinfo": "<br>\uE003 <#c2fc03>Server connection info:</#c2fc03><br>\uE003 <#c5cdd9>Proxy: <white>{0}</white></#c5cdd9><br>\uE003 <#c5cdd9>Server: <white>{1}</white></#c5cdd9><br>\uE003 <#c5cdd9>Role: <white>{2}<br>",
+    "command_serverinfo": "<br>\uE003 <#c2fc03>Server connection info:</#c2fc03><br>\uE003 <#c5cdd9>Proxy: <white>{0}</white></#c5cdd9><br>\uE003 <#c5cdd9>Server: <white>{1}</white></#c5cdd9><br>\uE003 <#c5cdd9>Role: <white>{2}<br>\uE003 <#c5cdd9>Status: <white>{3}<br>",
     "server_restart_reminder": "<br>\uE005 <#eb3434>This server is restarting.</#eb3434><br><br>\uE005 <#c5cdd9>You will be transferred to a hub server</#c5cdd9><br>\uE005 <#c5cdd9>in <white>{0}</white> if one is available.<br>",
-    "server_restart_cancelled": "<br>\uE004 <#fcc603>A server restart is cancelled.</#fcc603><br>",
-    "server_restart_title": "<#eb3434>This server is restarting in <white>{0}</white>."
+    "server_restart_cancelled": "<br>\uE004 <#fcc603>A server restart has been cancelled.</#fcc603><br>",
+    "server_restart_title": "<#eb3434>Server restarting in <white>{0}</white>."
 }
