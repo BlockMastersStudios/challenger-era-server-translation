@@ -77,5 +77,5 @@
     "command_serverinfo": "<br>\uE003 <#c2fc03>服务器连接信息:</#c2fc03><br>\uE003 <#c5cdd9>代理: <white>{0}</white></#c5cdd9><br>\uE003 <#c5cdd9>服务器: <white>{1}</white></#c5cdd9><br>\uE003 <#c5cdd9>角色: <white>{2}<br>\uE003 <#c5cdd9>状态: <white>{3}<br>",
     "server_restart_reminder": "<br>\uE005 <#eb3434>此服务器正在重启.</#eb3434><br><br>\uE005 <#c5cdd9>如果有可用的大厅服务器, 你将在</#c5cdd9><br>\uE005 <#c5cdd9><white>{0}</white> 后被传送至大厅服务器.<br>",
     "server_restart_cancelled": "<br>\uE004 <#fcc603>服务器重启已取消.</#fcc603><br>",
-    "server_restart_title": "<#eb3434>服务器将在 <white>{0}</white> 后重启."
+    "server_restart_title": "<#eb3434>此服务器将在 <white>{0}</white> 后重启."
 }
