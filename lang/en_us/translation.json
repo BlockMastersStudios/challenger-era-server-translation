@@ -114,5 +114,13 @@
     "chat_channel_list_permanent": "\uE003 <#c5cdd9>- <white>{0}</white> <gray>[permanent]</gray>",
     "chat_channel_list_owned": "\uE003 <#c5cdd9>- <white>{0}</white> <gray>[owner: {1}]</gray>",
     "chat_private_self": "\uE005 <#eb3434>You cannot message yourself!",
-    "chat_records_empty": "\uE003 <#c5cdd9>No chat records found for <white>{0}</white>."
+    "chat_records_empty": "\uE003 <#c5cdd9>No chat records found for <white>{0}</white>.",
+    "chat_dm_from": "<#fcc603>From</#fcc603>",
+    "chat_dm_to": "<#fcc603>To</#fcc603>",
+    "chat_hover_id": "<#c5cdd9>Chat ID:</#c5cdd9> <white>{0}</white>",
+    "chat_hover_time": "<#c5cdd9>Time:</#c5cdd9> <white>{0}</white>",
+    "chat_hover_server": "<#c5cdd9>Server:</#c5cdd9> <white>{0}</white>",
+    "chat_hover_click_to_dm": "<#fcc603>Click to DM</#fcc603>",
+    "chat_filter_learned_sensitive": "\uE003 <#c2fc03>Learned as <#eb3434>sensitive</#eb3434>: <white>{0}</white>",
+    "chat_filter_learned_safe": "\uE003 <#c2fc03>Learned as <#c2fc03>safe</#c2fc03>: <white>{0}</white>"
 }
