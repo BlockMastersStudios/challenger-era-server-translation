@@ -68,6 +68,7 @@
     "command_usage": "\uE005 <#eb3434>Command usage: <white>/{0} {1}</white>",
     "command_parameter_error": "\uE005 <#eb3434>Parameter <white>[{0}]</white> requires a <white>{1}</white>!",
     "command_reloadconfig_success": "\uE003 <#c2fc03>Reloaded configurations.",
+    "command_reloadresourcepack_success": "\uE003 <#c2fc03>Reloading the resource pack...",
     "command_language_changed": "\uE003 <#c2fc03>Language changed: <white>{0}</white>",
     "command_language_invalid_name": "\uE005 <#eb3434>Invalid language: <white>{0}</white>",
     "command_unintentional_execution_prevention": "\uE004 <#fcc603>To prevent unintentional execution, you need to execute this command again in <white>10s</white> to confirm.",
