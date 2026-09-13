@@ -2,6 +2,9 @@
     "dialog_general_button_close": "Close",
     "dialog_general_button_back": "Back",
     "dialog_general_button_next": "Next",
+    "dialog_player_selector_title": "Select a Player",
+    "dialog_player_selector_page": "Page <white>{0}/{1}</white>",
+    "dialog_player_selector_empty": "<#c5cdd9>There are no players to display.",
     "player_not_online": "<#eb3434>Player <white>{0}</white> is not online!",
     "player_not_exist": "<#eb3434>Player <white>{0}</white> does not exist!",
     "kick_unexpectedly": "<#eb3434>You have been disconnected from the server unexpectedly.<newline><newline><#c5cdd9>If you frequently encounter this problem,<newline>please contact our support team.",
@@ -123,5 +126,7 @@
     "chat_filter_learned_safe": "\uE003 <#c2fc03>Learned as <#c2fc03>safe</#c2fc03>: <white>{0}</white>",
     "hub_build_enabled": "\uE003 <#c2fc03>Build mode <white>enabled</white>.",
     "hub_build_disabled": "\uE004 <#fcc603>Build mode <white>disabled</white>.",
-    "hub_spawn_set": "\uE003 <#c2fc03>Lobby spawn set."
+    "hub_spawn_set": "\uE003 <#c2fc03>Lobby spawn set.",
+    "command_gamemode_changed": "\uE003 <#c2fc03>You have changed <white>{0}</white>'s game mode.",
+    "command_gamemode_updated": "\uE004 <#fcc603>Your game mode has been changed to <white>{0}</white>."
 }
