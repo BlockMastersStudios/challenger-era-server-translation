@@ -119,5 +119,8 @@
     "chat_dm_to": "<#fcc603>To</#fcc603>",
     "chat_hover": "<#c5cdd9>Chat ID:</#c5cdd9> <white>{0}</white><newline><#c5cdd9>Time:</#c5cdd9> <white>{1}</white><newline><#c5cdd9>Server:</#c5cdd9> <white>{2}</white><newline><newline><#c2fc03>Click to DM</#c2fc03>",
     "chat_filter_learned_sensitive": "\uE003 <#c2fc03>Learned as <#eb3434>sensitive</#eb3434>: <white>{0}</white>",
-    "chat_filter_learned_safe": "\uE003 <#c2fc03>Learned as <#c2fc03>safe</#c2fc03>: <white>{0}</white>"
+    "chat_filter_learned_safe": "\uE003 <#c2fc03>Learned as <#c2fc03>safe</#c2fc03>: <white>{0}</white>",
+    "hub_build_enabled": "\uE003 <#c2fc03>Build mode <white>enabled</white>.",
+    "hub_build_disabled": "\uE004 <#fcc603>Build mode <white>disabled</white>.",
+    "hub_spawn_set": "\uE003 <#c2fc03>Lobby spawn set."
 }
