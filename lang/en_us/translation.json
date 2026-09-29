@@ -99,7 +99,7 @@
     "chat_monitor_disabled": "\uE003 <#c2fc03>Chat monitoring disabled.",
     "chat_records_title": "\uE003 <#c2fc03>Chat records for {0} <#c5cdd9>(Page {1} of {2})",
     "chat_records_line": "\uE003 <#c5cdd9>[{0}] [{1}] <#fcc603>[{2}] <gray>→ <reset>{3}",
-    "chat_records_line_private": "\uE003 <#c5cdd9>[{0}] [{1}] <#fcc603>[{2}] <gray>→ <#fcc603>{3}<gray>: <reset>{4}",
+    "chat_records_line_private": "\uE003 <#c5cdd9>[{0}] [{1}] <#fcc603>[{2}] <gray>→ {3}<gray>: <reset>{4}",
     "chat_channel_created": "\uE003 <#c2fc03>You have created channel <white>{0}</white>. Use <white>/chat disband</white> to disband it.",
     "chat_channel_joined": "\uE003 <#c2fc03>You have joined channel <white>{0}</white>.",
     "chat_channel_disbanded": "\uE004 <#fcc603>Channel <white>{0}</white> has been disbanded.",
