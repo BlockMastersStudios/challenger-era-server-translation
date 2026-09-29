@@ -145,6 +145,9 @@
     "hud_staff_monitor": "Chat Monitor",
     "hud_staff_channel": "Channel",
     "hud_staff_restart": "Server Restart",
+    "hud_staff_staff_online": "Staff Online",
     "hud_staff_on": "ON",
-    "hud_staff_off": "OFF"
+    "hud_staff_off": "OFF",
+    "command_changeservercontext_changed": "\uE003 <#c2fc03>Server context has been changed to <white>{0}</white>. A restart has been scheduled to apply changes.",
+    "command_changeservercontext_already": "\uE005 <#eb3434>Server context is already <white>{0}"
 }
