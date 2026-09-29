@@ -72,6 +72,7 @@
     "command_parameter_error": "\uE005 <#eb3434>Parameter <white>[{0}]</white> requires a <white>{1}</white>!",
     "command_reloadconfig_success": "\uE003 <#c2fc03>Reloaded configurations.",
     "command_reloadresourcepack_success": "\uE003 <#c2fc03>Reloading the resource pack...",
+    "command_reloadresourcepack_failed": "\uE005 <#eb3434>Could not reload the resource pack. Please reconnect.",
     "command_language_changed": "\uE003 <#c2fc03>Language changed: <white>{0}</white>",
     "command_language_invalid_name": "\uE005 <#eb3434>Invalid language: <white>{0}</white>",
     "command_unintentional_execution_prevention": "\uE004 <#fcc603>To prevent unintentional execution, you need to execute this command again in <white>10s</white> to confirm.",
@@ -128,5 +129,12 @@
     "hub_build_disabled": "\uE004 <#fcc603>Build mode <white>disabled</white>.",
     "hub_spawn_set": "\uE003 <#c2fc03>Lobby spawn set.",
     "command_gamemode_changed": "\uE003 <#c2fc03>You have changed <white>{0}</white>'s game mode.",
-    "command_gamemode_updated": "\uE004 <#fcc603>Your game mode has been changed to <white>{0}</white>."
+    "command_gamemode_updated": "\uE004 <#fcc603>Your game mode has been changed to <white>{0}</white>.",
+    "tablist_header": "<newline><#b5cbf7><bold>{0}</bold></#b5cbf7><newline><newline>",
+    "tablist_footer": "<newline><#c5cdd9>{0} online</#c5cdd9><newline>",
+    "vanish_enabled": "\uE003 <#c2fc03>Vanish mode enabled.",
+    "vanish_disabled": "\uE003 <#c2fc03>Vanish mode disabled.",
+    "vanish_enabled_staff": "\uE003 <gray>{0} <gray>enabled vanish mode.",
+    "vanish_disabled_staff": "\uE003 <gray>{0} <gray>disabled vanish mode.",
+    "vanish_reminder": "\uE004 <#fcc603>You are still vanished from your last session."
 }
