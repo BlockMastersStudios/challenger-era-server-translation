@@ -138,7 +138,7 @@
     "vanish_disabled_staff": "\uE003 <gray>{0} <gray>disabled vanish mode.",
     "vanish_reminder": "\uE004 <#fcc603>You are still vanished from your last session.",
     "hud_staff_node": "Server",
-    "hud_staff_role": "Role",
+    "hud_staff_server_context": "Server Context",
     "hud_staff_online": "Online",
     "hud_staff_vanish": "Vanish",
     "hud_staff_build": "Build",
