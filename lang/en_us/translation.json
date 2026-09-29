@@ -144,7 +144,7 @@
     "hud_staff_build": "Build",
     "hud_staff_monitor": "Chat Monitor",
     "hud_staff_channel": "Channel",
-    "hud_staff_restart": "Server Restart",
+    "hud_staff_server_restart": "Server Restart",
     "hud_staff_staff_online": "Staff Online",
     "hud_staff_on": "ON",
     "hud_staff_off": "OFF",
