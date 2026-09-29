@@ -137,11 +137,14 @@
     "vanish_enabled_staff": "\uE003 <gray>{0} <gray>enabled vanish mode.",
     "vanish_disabled_staff": "\uE003 <gray>{0} <gray>disabled vanish mode.",
     "vanish_reminder": "\uE004 <#fcc603>You are still vanished from your last session.",
+    "hud_staff_node": "Server",
+    "hud_staff_role": "Role",
+    "hud_staff_online": "Online",
     "hud_staff_vanish": "Vanish",
     "hud_staff_build": "Build",
     "hud_staff_monitor": "Chat Monitor",
     "hud_staff_channel": "Channel",
-    "hud_staff_restart": "Restart",
+    "hud_staff_restart": "Server Restart",
     "hud_staff_on": "ON",
     "hud_staff_off": "OFF"
 }
