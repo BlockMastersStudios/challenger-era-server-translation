@@ -101,7 +101,7 @@
     "chat_records_title": "\uE003 <#c2fc03>Chat records for {0} <#c5cdd9>(Page {1} of {2})",
     "chat_records_line": "\uE003 <#c5cdd9>[{0}] [{1}] <#fcc603>[{2}] <gray>→ <reset>{3}",
     "chat_records_line_private": "\uE003 <#c5cdd9>[{0}] [{1}] <#fcc603>[{2}] <gray>→ {3}<gray>: <reset>{4}",
-    "chat_records_empty": "\uE003 <#c5cdd9>No chat records found for <white>{0}</white>.",
+    "chat_records_empty": "\uE003 <#eb3434>No chat records found for {0}.",
     "chat_channel_created": "\uE003 <#c2fc03>You have created channel <white>{0}</white>. Use <white>/chat disband</white> to disband it.",
     "chat_channel_joined": "\uE003 <#c2fc03>You have joined channel <white>{0}</white>.",
     "chat_channel_disbanded": "\uE004 <#fcc603>Channel <white>{0}</white> has been disbanded.",
@@ -151,7 +151,7 @@
     "server_context_changed": "\uE003 <#c2fc03>Server context has been changed to <white>{0}</white>. A restart has been scheduled to apply changes.",
     "server_context_already": "\uE005 <#eb3434>Server context is already <white>{0}",
     "player_balance_query": "\uE003 <#c2fc03>Player {0}<#c2fc03>'s balance: <white>{1}",
-    "player_balance_transaction_empty": "\uE003 <#c5cdd9>No transaction records found for <white>{0}</white>.",
+    "player_balance_transaction_empty": "\uE003 <#eb3434>No transaction records found for {0}.",
     "player_balance_transaction_title": "\uE003 <#c2fc03>Recent transaction records for {0}",
     "player_balance_transaction_line": "\uE003 <hover:show_text:'<#c5cdd9>Order ID: <white>{0}<newline><#c5cdd9>Time: <white>{1}<newline><#c5cdd9>Amount: <white>{2}<newline><#c5cdd9>Reason: <white>{3}<newline><#c5cdd9>Related UUID: <white>{4}<newline><#c5cdd9>Operator: <white>{5}'><#c5cdd9>{6} {7}</hover>",
     "player_balance_updated": "\uE003 <#c2fc03>Updated {0}<#c2fc03>'s balance: <white>{1}"
