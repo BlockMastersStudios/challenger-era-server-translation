@@ -146,6 +146,7 @@
     "hud_staff_channel": "Channel",
     "hud_staff_server_restart": "Server Restart",
     "hud_staff_staff_online": "Staff Online",
+    "hud_latest_transaction": "Latest Transaction",
     "hud_staff_on": "ON",
     "hud_staff_off": "OFF",
     "server_context_changed": "\uE003 <#c2fc03>Server context has been changed to <white>{0}</white>. A restart has been scheduled to apply changes.",
